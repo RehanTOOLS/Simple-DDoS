@@ -11,7 +11,7 @@ target = input("[?] Enter IP Target : ")
 port = int(input("[?] Enter The Port : "))
 
 # Kita Pake Fake IP :v
-fale_ip = '182.21.20.32'
+fake_ip = '182.21.20.32'
 
 # Connectednya
 already_connected = 0
